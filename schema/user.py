@@ -9,5 +9,5 @@ class UserCreate(UserBase):
     password: str
 
 class UserLogin(UserBase):
-    username: str
+    email: str
     password: str

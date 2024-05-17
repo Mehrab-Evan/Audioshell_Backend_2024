@@ -23,7 +23,7 @@ This project relies on several technologies and dependencies, including:
 
 ### Working on the project
 
-- Move into the project directory: `cd ~/AudioShell_Backend`
+- Move into the project directory: `cd AudioShell_Backend`
 - Run the development task:
   - Setup the [Databases](#databases)
   - Start the server: `uvicorn main:app --reload`

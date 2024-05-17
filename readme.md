@@ -1,4 +1,4 @@
-# QueryHub
+# AudioShell
 
 ## Getting started
 
